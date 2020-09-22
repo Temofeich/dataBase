@@ -1,0 +1,10 @@
+/.idea/
+.idea
+.out*
+*.iml
+/dist
+/temp
+/out
+
+# Default ignored files
+/workspace.xml
