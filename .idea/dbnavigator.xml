@@ -23,25 +23,15 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes>
-      <connection connection-id="983b14d4-3da1-443a-8071-d1eca6c9dc09">
-        <schema name="test" object-types="table, constraint, column, index, dataset trigger" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="983b14d4-3da1-443a-8071-d1eca6c9dc09">
-      <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
+      <console name="Connection" type="STANDARD" schema="mysql" session="Main"><![CDATA[SET GLOBAL time_zone = '+3:00';]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="983b14d4-3da1-443a-8071-d1eca6c9dc09" object-ref="schemas/test/tables/customers" />
-      <object connection-id="983b14d4-3da1-443a-8071-d1eca6c9dc09" object-ref="schemas/test/tables/vendors" />
-      <object connection-id="983b14d4-3da1-443a-8071-d1eca6c9dc09" object-ref="schemas/test/tables/orderitems" />
-      <object connection-id="983b14d4-3da1-443a-8071-d1eca6c9dc09" object-ref="schemas/test/tables/orders" />
-      <object connection-id="983b14d4-3da1-443a-8071-d1eca6c9dc09" object-ref="schemas/test/tables/products" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="983b14d4-3da1-443a-8071-d1eca6c9dc09" />
